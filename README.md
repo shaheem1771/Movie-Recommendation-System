@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-A content-based movie recommendation system built using Python, Scikit-learn, and Gradio. The system recommends similar movies using TF-IDF vectorization and cosine similarity, providing an interactive and user-friendly movie discovery experience.
+A content-based movie recommendation system built using Python, Scikit-learn, and Gradio. The system recommends similar movies using TF-IDF vectorization and  cosine similarity, providing an interactive and user-friendly movie discovery experience.
 
 ## Features
 
